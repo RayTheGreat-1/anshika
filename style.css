@@ -946,7 +946,8 @@ body {
     font-family: 'Sriracha', cursive;
     padding: 0 20px 40px 20px;
     text-indent: 20px;
-    font-size: 13px;
+    font-size: 12px;
+    line-height: 1.4;
     
     opacity: 1;
 }
